@@ -2,6 +2,8 @@
 
 A classic **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Two players take turns marking X and O on a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
+[Live Demo](https://tic-tac-toe-kappa-taupe-60.vercel.app/)
+
 ## 💻 Demo
 ![Tic Tac Toe](demo.gif)
 

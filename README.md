@@ -2,6 +2,9 @@
 
 A classic **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Two players take turns marking X and O on a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
+## 💻 Demo
+![Tic Tac Toe](demo.gif)
+
 ## 🧩 Features
 
 - Two-player mode (Player X and Player O)
